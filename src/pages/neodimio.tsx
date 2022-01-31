@@ -3,16 +3,10 @@ import "../style/element.css"
 import neodimio from "../images/neodimio.jpg"
 import neodimioatomo from "../images/neodimioatomo.jpg"
 import tbNeodimio from "../images/tbNeodímio.jpg"
-import { Link } from "react-router-dom"
 
 export function Neodimio() {
   return(
     <div className="container">
-			<div className="tophome">
-				<div className="logotipo">
-					<h2><Link to="/" className="home">QUIMICA</Link></h2>		
-				</div>
-			</div>
       <div className="container-center">
 
 			<div className="nome">

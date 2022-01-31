@@ -3,16 +3,10 @@ import "../style/element.css"
 import promecio from "../images/promecio.jpg"
 import promecioatomo from "../images/promecioatomo.jpg"
 import tbPromecio from "../images/tbPromécio.jpg"
-import { Link } from "react-router-dom";
 
 export function Promecio() {
   return (
     <div className="container">
-			<div className="tophome">
-				<div className="logotipo">
-					<h2><Link to="/" className="home">QUIMICA</Link></h2>		
-				</div>
-			</div>
       <div className="container-center">
 
         <div className="nome">

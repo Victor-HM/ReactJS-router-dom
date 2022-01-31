@@ -3,16 +3,10 @@ import "../style/element.css"
 import cerio from "../images/cerio.jpg"
 import cerioatomo from "../images/cerioatomo.png"
 import tbCerio from "../images/tbCério.jpg"
-import { Link } from "react-router-dom"
 
 export function Cerio() {
   return (
     <div className="container">
-			<div className="tophome">
-				<div className="logotipo">
-					<h2><Link to="/" className="home">Quimica</Link></h2>		
-				</div>
-			</div>
       <div className="container-center">
 
 			<div className="nome">

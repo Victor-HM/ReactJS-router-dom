@@ -3,16 +3,10 @@ import "../style/element.css"
 import gadolinio from "../images/gadolinio.jpg"
 import gadolinioatomo from "../images/gadolinioatomo.jpg"
 import tbGadolinio from "../images/tbGadolínio.jpg"
-import { Link } from "react-router-dom"
 
 export function Gadolinio() {
   return(
     <div className="container">
-    <div className="tophome">
-      <div className="logotipo">
-        <h2><Link to="/" className="home">QUIMICA</Link></h2>		
-      </div>
-    </div>
 
     <div className="container-center">
 

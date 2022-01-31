@@ -6,20 +6,20 @@
 }
 
 body {
-  background-image: url("background.svg");
+	background-image: url("background.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: fixed;
 }
 
 .containe {
-  background: transparent;
   width: 1200px;
-  height: 1800px;
+  height: auto;
   margin: 0 auto;
 }
 
 .container-center {
+  background: transparent;
   width: 100%;
   display: flex;
   align-items: center;

@@ -19,14 +19,7 @@ import{ Link } from "react-router-dom"
 
 export function Index() {
   return (
-    <body>
-     
     <div className="containe">
-			<div className="tophome">
-				<div className="logotipo">
-					<h2>QUIMICA</h2>
-				</div>
-			</div>
 			<div className="container-center">
 			
 				<div className="elemento">
@@ -98,7 +91,5 @@ export function Index() {
 			</footer>
 			</div>
 			</div>
-
-   </body>
   )
 }

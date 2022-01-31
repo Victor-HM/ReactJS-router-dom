@@ -9,11 +9,6 @@ import { Link } from 'react-router-dom'
 export function Praseodimio() {
   return (
     <div className="container">
-			<div className="tophome">
-				<div className="logotipo">
-					<h2><Link to="/" className="home">QUIMICA</Link></h2>		
-				</div>
-			</div>
       <div className="container-center">
           <div className="nome">
             <h3>PRASEODÍMIO</h3>
